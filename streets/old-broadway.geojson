@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "old-broadway",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 23, "name": "Old Broadway" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ -73.95782, 40.81509 ], [ -73.95702, 40.81553 ], [ -73.9568, 40.81565 ], [ -73.9567, 40.81576 ], [ -73.95645, 40.81609 ], [ -73.9562, 40.81644 ], [ -73.95561, 40.81728 ], [ -73.95555, 40.81768 ], [ -73.95548, 40.81812 ], [ -73.95543, 40.81852 ] ] ] } }
+]
+}

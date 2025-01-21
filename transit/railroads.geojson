@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "railroads",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 8, "name": "Pennsylvania Railroad", "type": "railroad" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ -74.021, 40.76199 ], [ -74.00595, 40.75569 ], [ -73.99729, 40.75206 ], [ -73.99164, 40.74968 ], [ -73.98556, 40.74713 ], [ -73.97636, 40.74325 ], [ -73.97468, 40.74308 ], [ -73.96971, 40.74241 ], [ -73.96074, 40.74124 ] ] ] } },
+{ "type": "Feature", "properties": { "id": 9, "name": "New York Central & Hudson River Railroad", "type": "railroad" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ -73.97618, 40.75417 ], [ -73.9745, 40.75655 ], [ -73.97185, 40.76018 ], [ -73.96686, 40.767 ], [ -73.96384, 40.77113 ], [ -73.95754, 40.77978 ], [ -73.95189, 40.78751 ], [ -73.94354, 40.79893 ], [ -73.93596, 40.80915 ], [ -73.93531, 40.81003 ], [ -73.93251, 40.81122 ] ] ] } }
+]
+}

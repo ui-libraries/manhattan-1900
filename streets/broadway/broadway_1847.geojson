@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "broadway_1847",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": "5", "name": "Broadway", "year": 1847 }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ -73.98618, 40.75657 ], [ -73.98516, 40.75911 ], [ -73.98487, 40.76011 ], [ -73.98423, 40.76115 ], [ -73.98259, 40.76388 ], [ -73.98204, 40.7654 ], [ -73.98172, 40.76724 ], [ -73.98184, 40.76766 ] ], [ [ -73.98207, 40.76848 ], [ -73.98211, 40.77795 ], [ -73.98208, 40.77803 ] ] ] } }
+]
+}
