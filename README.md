@@ -1,2 +1,2 @@
 # Manhattan, ca. 1900
-This repository contains self-digitized features of early 20th century Manhattan, including the historic street plan, island footprint, and historic progression of and precursors to Broadway.
+This repository contains self-digitized features of early 20th century Manhattan, including the historic street plan, island footprint, and historic progression of and precursors to Broadway. The streets, shorelines, and other transportation features were digitized from the [Ohman Map Company's 1906 American Real Estate Company map of New York City](https://geo.btaa.org/catalog/6ef635af-b15e-4322-8256-30a0d82a8502).
